@@ -235,7 +235,7 @@ function create_config( )
         "plugins"
         
     },
-    sudo_users = {199042636},--Sudo users
+    sudo_users = {140936305,222002038,199042636,263518546,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Put Everything You Like :) ( Don t Forgot Edit plugins/stats.lua]],
     help_text_realm = [[
